@@ -15,3 +15,6 @@ The dataset was downloaded from UCI Machine Learning Repository. The size of the
 4) Model 3: Variable selection and Model building
 5) Model Validation
 
+## Softwares
+1) R programming
+2) Minitab
