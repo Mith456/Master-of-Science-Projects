@@ -1,1 +1,14 @@
+# ABOUT DATA
+	
+This data comes from the Prosper p2p lending platform. I came across the data during the Udacity Data Analyst Nanodegree. 
+All credit goes to Prosper and Udacity. A link to the data is here: https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv. 
+
+The data contains a wide variety of information concerning loans on the Prosper p2p lending platform. 
+This dataset is financial dataset and this is related to the loan, borrowers, lenders, interest rates and a few more.
+Prosper Marketplace Inc. is a San Francisco, California based company specializing in loans at low interest rates to the borrowers.
+In this dataset, we are using the data from the Prosper to analyze it and trying to find the pattern in the Prosper data. 
+This may be tedious because of the sheer size of the dataset and the complicated nature of all the financial datasets. 
+
+## MOTIVATION & OBJECTIVE
+
 
